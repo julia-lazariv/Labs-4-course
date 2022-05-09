@@ -1,0 +1,16 @@
+C:\Users\andri\Desktop\Lab6\Lab6\bin\Debug\net5.0\Lab6.exe
+C:\Users\andri\Desktop\Lab6\Lab6\bin\Debug\net5.0\Lab6.deps.json
+C:\Users\andri\Desktop\Lab6\Lab6\bin\Debug\net5.0\Lab6.runtimeconfig.json
+C:\Users\andri\Desktop\Lab6\Lab6\bin\Debug\net5.0\Lab6.runtimeconfig.dev.json
+C:\Users\andri\Desktop\Lab6\Lab6\bin\Debug\net5.0\Lab6.dll
+C:\Users\andri\Desktop\Lab6\Lab6\bin\Debug\net5.0\ref\Lab6.dll
+C:\Users\andri\Desktop\Lab6\Lab6\bin\Debug\net5.0\Lab6.pdb
+C:\Users\andri\Desktop\Lab6\Lab6\obj\Debug\net5.0\Lab6.csproj.AssemblyReference.cache
+C:\Users\andri\Desktop\Lab6\Lab6\obj\Debug\net5.0\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andri\Desktop\Lab6\Lab6\obj\Debug\net5.0\Lab6.AssemblyInfoInputs.cache
+C:\Users\andri\Desktop\Lab6\Lab6\obj\Debug\net5.0\Lab6.AssemblyInfo.cs
+C:\Users\andri\Desktop\Lab6\Lab6\obj\Debug\net5.0\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\andri\Desktop\Lab6\Lab6\obj\Debug\net5.0\Lab6.dll
+C:\Users\andri\Desktop\Lab6\Lab6\obj\Debug\net5.0\ref\Lab6.dll
+C:\Users\andri\Desktop\Lab6\Lab6\obj\Debug\net5.0\Lab6.pdb
+C:\Users\andri\Desktop\Lab6\Lab6\obj\Debug\net5.0\Lab6.genruntimeconfig.cache
